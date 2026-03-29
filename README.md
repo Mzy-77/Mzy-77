@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-🔭 I’m currently working on: JavaScript (JS) & TypeScript (TS) projects, and exploring advanced design patterns.
+🔭 I’m currently working on: JavaScript & TypeScript projects, and exploring advanced design patterns.
 🌱 Currently learning: React, MongoDB, Data Science, Machine Learning, and Spring Boot.
 
 👨‍💻 Tech I work with:
 
-Languages: JavaScript (JS), TypeScript (TS), Java
+Languages: JavaScript , TypeScript , Java
 
 Databases: MySQL, MS SQL
 
