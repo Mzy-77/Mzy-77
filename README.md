@@ -1,16 +1,14 @@
 ## Hi there 👋
+  I’m currently working on: JavaScript & TypeScript projects, and exploring advanced design patterns.
+  Currently learning: React, MongoDB, Data Science, Machine Learning, and Spring Boot.
+  Tech I work with:
 
-🔭 I’m currently working on: JavaScript & TypeScript projects, and exploring advanced design patterns.
-🌱 Currently learning: React, MongoDB, Data Science, Machine Learning, and Spring Boot.
+  Languages: JavaScript , TypeScript , Java
 
-👨‍💻 Tech I work with:
+  Databases: MySQL, MS SQL
 
-Languages: JavaScript , TypeScript , Java
+  Frontend: HTML, CSS, React 
 
-Databases: MySQL, MS SQL
+  Backend: Java (OOP, JDBC), Node.js 
 
-Frontend: HTML, CSS, React (learning)
-
-Backend: Java (OOP, JDBC, Servlets), Node.js (basics)
-
-Frameworks: Learning Spring Boot
+  Frameworks: Learning Spring Boot , Next.js
