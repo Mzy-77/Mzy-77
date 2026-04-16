@@ -1,6 +1,6 @@
 ## Hi there 👋
   I’m currently working on: JavaScript & TypeScript projects, and exploring advanced design patterns.
-  Currently learning: React, MongoDB, Data Science, Machine Learning, and Spring Boot.
+  Currently learning: Data Science, Machine Learning, and Spring Boot.
   Tech I work with:
 
   Languages: JavaScript , TypeScript , Java
